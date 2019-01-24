@@ -1,0 +1,14 @@
+dicfile.txt
+
+ F A T H E R # . . . .
+ . . A . . . . . . . .
+ M O T H E R # . # . .
+ . . T . . . . . F . .
+ . . E . . # A B A S E
+ . . R . . . . . R . .
+
+AaH FATHER
+AcV TATTER
+CaH MOTHER
+DiV FAR
+EgH ABASE

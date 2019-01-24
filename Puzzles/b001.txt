@@ -1,0 +1,27 @@
+dicfile.txt
+
+ Z E S T # # D E A F
+ E # # Y # # # # # A
+ N # # R # # # # # T
+ I # L A N D # W # H
+ T # # N # A B A S E
+ H # # T # T # S # R
+ # # T # # A # T # #
+ F U R Y # # Y E T #
+ A # I # # # # # # #
+ R E P O R T # # # #
+
+AaH ZEST
+AaV ZENITH
+AdV TYRANT
+AgH DEAF
+AjV FATHER
+DcH LAND
+DfV DATA
+DhV WASTE
+EfH ABASE
+GcV TRIP
+HaH FURY
+HaV FAR
+HgH YET
+JaH REPORT
